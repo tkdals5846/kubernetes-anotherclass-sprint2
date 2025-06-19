@@ -2,9 +2,9 @@
 replicaCount: 1
 
 image:
-  repository: 1pro/api-tester
+  repository: mini0916/api-tester
   pullPolicy: Always
-  tag: 1.0.0
+  tag: "git-250619.184932"
 
 resources:
   limits:
