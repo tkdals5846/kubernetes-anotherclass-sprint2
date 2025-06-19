@@ -4,7 +4,7 @@ replicaCount: 1
 image:
   repository: mini0916/api-tester
   pullPolicy: Always
-  tag: 1.0.0
+  tag: "git-250619.193650"
 
 resources:
   limits:
